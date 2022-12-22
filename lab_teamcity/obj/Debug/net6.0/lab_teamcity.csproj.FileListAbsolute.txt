@@ -1,5 +1,0 @@
-C:\Users\79381\Desktop\sfedu\7_семестр\ПИ\lab_teamcity\TeamCity\lab_teamcity\obj\Debug\net6.0\lab_teamcity.csproj.AssemblyReference.cache
-C:\Users\79381\Desktop\sfedu\7_семестр\ПИ\lab_teamcity\TeamCity\lab_teamcity\obj\Debug\net6.0\lab_teamcity.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\79381\Desktop\sfedu\7_семестр\ПИ\lab_teamcity\TeamCity\lab_teamcity\obj\Debug\net6.0\lab_teamcity.AssemblyInfoInputs.cache
-C:\Users\79381\Desktop\sfedu\7_семестр\ПИ\lab_teamcity\TeamCity\lab_teamcity\obj\Debug\net6.0\lab_teamcity.AssemblyInfo.cs
-C:\Users\79381\Desktop\sfedu\7_семестр\ПИ\lab_teamcity\TeamCity\lab_teamcity\obj\Debug\net6.0\lab_teamcity.csproj.CoreCompileInputs.cache

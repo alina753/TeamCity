@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\79381\\Desktop\\sfedu\\7_семестр\\ПИ\\lab_teamcity\\lab_teamcity\\lab_teamcity.csproj": {}
+    "C:\\Users\\79381\\Desktop\\sfedu\\7_семестр\\ПИ\\lab_teamcity\\TeamCity\\lab_teamcity\\lab_teamcity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\79381\\Desktop\\sfedu\\7_семестр\\ПИ\\lab_teamcity\\lab_teamcity\\lab_teamcity.csproj": {
+    "C:\\Users\\79381\\Desktop\\sfedu\\7_семестр\\ПИ\\lab_teamcity\\TeamCity\\lab_teamcity\\lab_teamcity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\79381\\Desktop\\sfedu\\7_семестр\\ПИ\\lab_teamcity\\lab_teamcity\\lab_teamcity.csproj",
+        "projectUniqueName": "C:\\Users\\79381\\Desktop\\sfedu\\7_семестр\\ПИ\\lab_teamcity\\TeamCity\\lab_teamcity\\lab_teamcity.csproj",
         "projectName": "lab_teamcity",
-        "projectPath": "C:\\Users\\79381\\Desktop\\sfedu\\7_семестр\\ПИ\\lab_teamcity\\lab_teamcity\\lab_teamcity.csproj",
+        "projectPath": "C:\\Users\\79381\\Desktop\\sfedu\\7_семестр\\ПИ\\lab_teamcity\\TeamCity\\lab_teamcity\\lab_teamcity.csproj",
         "packagesPath": "C:\\Users\\79381\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\79381\\Desktop\\sfedu\\7_семестр\\ПИ\\lab_teamcity\\lab_teamcity\\obj\\",
+        "outputPath": "C:\\Users\\79381\\Desktop\\sfedu\\7_семестр\\ПИ\\lab_teamcity\\TeamCity\\lab_teamcity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\79381\\AppData\\Roaming\\NuGet\\NuGet.Config",
